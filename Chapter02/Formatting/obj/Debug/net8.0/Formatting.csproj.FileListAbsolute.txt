@@ -1,0 +1,15 @@
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter02\Formatting\bin\Debug\net8.0\Formatting.exe
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter02\Formatting\bin\Debug\net8.0\Formatting.deps.json
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter02\Formatting\bin\Debug\net8.0\Formatting.runtimeconfig.json
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter02\Formatting\bin\Debug\net8.0\Formatting.dll
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter02\Formatting\bin\Debug\net8.0\Formatting.pdb
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter02\Formatting\obj\Debug\net8.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter02\Formatting\obj\Debug\net8.0\Formatting.AssemblyInfoInputs.cache
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter02\Formatting\obj\Debug\net8.0\Formatting.AssemblyInfo.cs
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter02\Formatting\obj\Debug\net8.0\Formatting.csproj.CoreCompileInputs.cache
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter02\Formatting\obj\Debug\net8.0\Formatting.sourcelink.json
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter02\Formatting\obj\Debug\net8.0\Formatting.dll
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter02\Formatting\obj\Debug\net8.0\refint\Formatting.dll
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter02\Formatting\obj\Debug\net8.0\Formatting.pdb
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter02\Formatting\obj\Debug\net8.0\Formatting.genruntimeconfig.cache
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter02\Formatting\obj\Debug\net8.0\ref\Formatting.dll
