@@ -1,0 +1,14 @@
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.exe
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.deps.json
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.runtimeconfig.json
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.dll
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.pdb
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.AssemblyInfoInputs.cache
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.AssemblyInfo.cs
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.csproj.CoreCompileInputs.cache
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.dll
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\refint\AboutMyEnvironment.dll
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.pdb
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.genruntimeconfig.cache
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\AboutMyEnvironment\obj\Debug\net8.0\ref\AboutMyEnvironment.dll

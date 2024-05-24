@@ -1,0 +1,14 @@
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\HelloCS\bin\Debug\net8.0\HelloCS.exe
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\HelloCS\bin\Debug\net8.0\HelloCS.deps.json
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\HelloCS\bin\Debug\net8.0\HelloCS.runtimeconfig.json
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\HelloCS\bin\Debug\net8.0\HelloCS.dll
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\HelloCS\bin\Debug\net8.0\HelloCS.pdb
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.AssemblyInfoInputs.cache
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.AssemblyInfo.cs
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.csproj.CoreCompileInputs.cache
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.dll
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\HelloCS\obj\Debug\net8.0\refint\HelloCS.dll
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.pdb
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\HelloCS\obj\Debug\net8.0\HelloCS.genruntimeconfig.cache
+D:\PraticeAndLearning\CS12DotNet8Book\Chapter01-vscode\HelloCS\obj\Debug\net8.0\ref\HelloCS.dll
